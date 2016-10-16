@@ -2,4 +2,4 @@
 my first project from the guids
 And ME? a new commer to github, try to be familiar with it.
 
-add something 2016/06/08 GTM
+come back at 2016/10/16. because my company use git as version control tool, I try this again.
